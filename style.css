@@ -1,0 +1,78 @@
+body {
+    background-color: whitesmoke;
+    background-image: url("images/camille-couvez-H5PnIYI_1I0-unsplash.jpg");
+    
+}
+nav {
+    display: flex;
+    padding: 15px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    color: tomato;
+}
+
+h2 {
+    text-align: center;
+    font-style: italic;
+    color: orange;
+}
+
+h3 {
+    text-align: center;
+    font-family: sans-serif;
+    color: lightseagreen;
+    font-size: 30px;
+}
+
+a {
+    font-size: 30px;
+    color: tomato;
+    text-decoration: none;
+}
+h5.card-title {
+    font-size: 30px;
+    color: orange;
+}
+
+footer {
+    display: inline-flex;
+    width: 100%;
+    
+}
+p.main {
+    display: block;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    width: 750px;
+    margin: auto;
+    padding-top: 10px;
+}
+p.card-text {
+    font-size: 16px;
+    color: white;
+}
+
+img.game {
+    display: block;
+    margin: auto;
+    width: 750px;
+    height: 500px;
+}
+
+img.card-image-top {
+    width: 100px;
+    height: 100px;
+}
+
+div.about-us {
+    width: 25%;
+    text-align: center;
+}
+
+li {
+    color: white;
+}
